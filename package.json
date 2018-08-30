@@ -1,0 +1,25 @@
+{
+  "name": "electron-practice",
+  "version": "0.0.1",
+  "description": "electoron + typescript + react + webpack",
+  "main": "public/main.js",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.13",
+    "@types/react-dom": "^16.0.7",
+    "awesome-typescript-loader": "^5.2.0",
+    "electron": "^2.0.8",
+    "prettier": "^1.14.2",
+    "typescript": "^3.0.3",
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nekko1119",
+  "license": "MIT"
+}
